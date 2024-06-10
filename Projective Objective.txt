@@ -1,0 +1,48 @@
+Coffee Shop Anylysis
+
+The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
+
+
+Recommended Analysis
+
+1.How do sales vary by day of the week and hour of the Day?
+
+2.Are they any peak times for sales activity?
+
+3.What is the total sales revenue for each month?
+
+4.How do sales vary across different store locations?
+
+5.What is the average price/order per person?
+
+6.Which products are the best-selling in terms of quantity and revenue?
+
+7.How do sales vary by product category and type?
+
+
+
+Solutions
+
+1.From 7 to 10'O Clock has more order compair to other hours in a day.
+  Monday Tusesday and Friday prove more sale compair to other day of week.
+
+2. 8 to 10'O clock is the peak time for sales activity.
+
+3.April, May and June gather highest revenue compair to other months.
+
+4. approximatly all three store location sales equal if we compair Hell's Kitchen > Astria > Lower monhattan
+
+5. The average price/person is 4.6k and the average product/person is 1.44k.
+
+6. Barista Espresso > Brewed Chai tea > Hot Chocolate are Best salling Products
+
+7. Sales vary by product : coffee > Tea >  Loose Tea > Drinking Chocolate > Coffee beans etc...
+
+
+Suggetions
+
+- we can maximize sale on evening by offering one lower prize/smaller size product free on sale of Two high prize product for some day to make it habitual to drink at evening for customer
+
+- we also provide above offer for Day of week sales less.
+
+- we can organize some event on month with lower sales to attract cusomer eg. any famous games display on big screen, local area festival etc.
